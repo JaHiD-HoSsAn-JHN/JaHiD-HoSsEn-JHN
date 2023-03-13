@@ -1,6 +1,8 @@
 <h1 align="center">As-salamu Alaykum. Greetings, I'm JaHiD HoSsEn</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted. However, now i am traying to learn DaTa ScIeNcE & MaChInE LeArNiNg also DeEp LeArNiNg</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-hossen-jhn&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-hossen-jhn" /> </p>
+
 - 🔭 Currently i am a **student.**
 
 - 🌱 Digging Into **DaTa ScIeNcE & MaChInE LeArNiNg**

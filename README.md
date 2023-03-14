@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/jahid-hossan-342196258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-hossan-342196258" height="30" width="40" /></a>
 <a href="https://fb.com/jahidhossen9098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahidhossen9098" height="30" width="40" /></a>
 <a href="https://instagram.com/jahidhossennayeem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahidhossennayeem/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uciou6bdauvcczd-3x_e2cha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uciou6bdauvcczd-3x_e2cha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@jahidhossen-cz1zs/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jahidhossen-cz1zs/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
